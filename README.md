@@ -1,21 +1,21 @@
 # Color Image Processing 
 
 ## Purpose
-- Open CV ¾øÀÌ MFC·Î ±¸ÇöÇÑ C++ Image Processing <br/>
+- Open CV ì—†ì´ MFCë¡œ êµ¬í˜„í•œ C++ Image Processing <br/>
 
 ## Development Environment
 - Windows 11<br/>
 - Visual Studio Community 2022, C++(MFC)
 
 ## Function
-- ÆÄÀÏ : ¿­±â, ÀúÀå , È¿°ú ´©Àû
-- È­¼ÒÁ¡ Ã³¸® <br/>
-  ±âÇÏÇÐ Ã³¸® <br/>
-  Ä®¶ó ÀÌ¹ÌÁö È¿°ú <br/>
-  È­¼Ò ¿µ¿ª Ã³¸®<br/>
-  °æ°è¼± °ËÃâ <br/>
+- íŒŒì¼ : ì—´ê¸°, ì €ìž¥ , íš¨ê³¼ ëˆ„ì 
+- í™”ì†Œì  ì²˜ë¦¬ <br/>
+  ê¸°í•˜í•™ ì²˜ë¦¬ <br/>
+  ì¹¼ë¼ ì´ë¯¸ì§€ íš¨ê³¼ <br/>
+  í™”ì†Œ ì˜ì—­ ì²˜ë¦¬<br/>
+  ê²½ê³„ì„  ê²€ì¶œ <br/>
 
-<img src="menu.png" alt="poster" width="70%"><br/><br/>
+<img src="menu.png" alt="poster" width="80%"><br/><br/>
 
 
 
